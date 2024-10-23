@@ -1,0 +1,23 @@
+
+body {
+    background-image: linear-gradient(to right, rgb(99, 255, 37), rgb(0, 255, 149), rgb(0, 255, 234) );
+    
+    }
+
+    main{
+        width: 40%;
+margin: auto;
+align-items: center;
+background-color: white;
+padding: 10px;
+box-shadow: 2px 5px 10px black;
+border-radius: 20px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+
+    }
+    h1{
+        text-align: center;
+    }
